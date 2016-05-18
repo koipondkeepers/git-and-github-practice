@@ -2,4 +2,4 @@
 console.log("linked")
 
 
-alert("second alert!")
+alert("All is working!")
